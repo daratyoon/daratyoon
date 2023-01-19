@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daratyoon
+- 👋 Hi, I’m Sandra
 - 👀 I’m working to transition into the tech industry 💡  
 - 🌱 I’m currently learning front-end development (React, Responsive)
 - 💞️ I’m looking to collaborate on fun, creative projects involving film, art, fashion, and travel
